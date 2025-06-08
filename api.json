@@ -93,7 +93,7 @@
         },
         {
             "key": "仓鼠",
-            "name": "仓鼠｜APP",
+            "name": "仓鼠",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet2",
@@ -107,7 +107,7 @@
         },
         {
             "key": "水滴",
-            "name": "水滴｜APP",
+            "name": "水滴",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet2",
@@ -121,7 +121,7 @@
         },
         {
             "key": "咖啡",
-            "name": "咖啡｜APP",
+            "name": "咖啡",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet2",
@@ -135,7 +135,7 @@
         },
         {
             "key": "橘猫",
-            "name": "橘猫｜APP",
+            "name": "橘猫",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet2",
@@ -162,8 +162,78 @@
             }
         },
         {
+            "key": "晓晓",
+            "name": "晓晓",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://ys.ewo.asia",
+                "dataKey": "Z0qTnwyLAJCtuIkI",
+                "dataIv": "Z0qTnwyLAJCtuIkI",
+                "deviceId": "",
+                "version": ""
+            }
+        },
+        {
+            "key": "老王",
+            "name": "老王",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://ht.laowang.co",
+                "dataKey": "EUwFY2vPWBqpYyAY",
+                "dataIv": "EUwFY2vPWBqpYyAY",
+                "deviceId": "",
+                "version": ""
+            }
+        },
+        {
+            "key": "追剧",
+            "name": "追剧",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://sjapp.wuyanzu.top/",
+                "dataKey": "weyuhgiohgsytwhj",
+                "dataIv": "weyuhgiohgsytwhj",
+                "deviceId": "2112fc5eac600314ba95c4d65da9286b3",
+                "version": "119"
+            }
+        },
+        {
+            "key": "沐沐",
+            "name": "沐沐",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://xk.ys088.cn",
+                "dataKey": "1846397456616237",
+                "dataIv": "1846397456616237",
+                "deviceId": "2112fc5eac600314ba95c4d65da9286b3",
+                "version": "119"
+            }
+        },
+        {
+            "key": "溜溜",
+            "name": "溜溜",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://appcms.ll4k.xyz",
+                "dataKey": "NiDGaKiVnkO3QX1Q",
+                "dataIv": "NiDGaKiVnkO3QX1Q",
+                "deviceId": "2fbaf48ee97783260bc907e3ab0bd40c3",
+                "version": "200"
+            }
+        },
+        {
             "key": "超前",
-            "name": "超前｜APP",
+            "name": "超前",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -177,7 +247,7 @@
         },
         {
             "key": "剧咖",
-            "name": "剧咖｜APP",
+            "name": "剧咖",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -191,7 +261,7 @@
         },
         {
             "key": "恋鱼",
-            "name": "恋鱼｜APP",
+            "name": "恋鱼",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -205,7 +275,7 @@
         },
         {
             "key": "开心",
-            "name": "开心｜APP",
+            "name": "开心",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -219,7 +289,7 @@
         },
         {
             "key": "豆豆",
-            "name": "豆豆｜APP",
+            "name": "豆豆",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -233,7 +303,7 @@
         },
         {
             "key": "淘气",
-            "name": "淘气｜APP",
+            "name": "淘气",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -247,7 +317,7 @@
         },
         {
             "key": "瓜萌",
-            "name": "瓜萌｜APP",
+            "name": "瓜萌",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -261,7 +331,7 @@
         },
         {
             "key": "乐乐",
-            "name": "乐乐｜APP",
+            "name": "乐乐",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -275,7 +345,7 @@
         },
         {
             "key": "乐看",
-            "name": "乐看｜APP",
+            "name": "乐看",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -289,7 +359,7 @@
         },
         {
             "key": "梦缘",
-            "name": "梦缘｜APP",
+            "name": "梦缘",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -303,7 +373,7 @@
         },
         {
             "key": "麒麟",
-            "name": "麒麟｜APP",
+            "name": "麒麟",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -317,7 +387,7 @@
         },
         {
             "key": "忍者",
-            "name": "忍者｜APP",
+            "name": "忍者",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -331,7 +401,7 @@
         },
         {
             "key": "晴天",
-            "name": "晴天｜APP",
+            "name": "晴天",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -345,7 +415,7 @@
         },
         {
             "key": "再看",
-            "name": "再看｜APP",
+            "name": "再看",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -359,7 +429,7 @@
         },
         {
             "key": "橘子",
-            "name": "橘子｜APP",
+            "name": "橘子",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -373,7 +443,7 @@
         },
         {
             "key": "彼岸",
-            "name": "彼岸｜APP",
+            "name": "彼岸",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -387,7 +457,7 @@
         },
         {
             "key": "雨滴",
-            "name": "雨滴｜APP",
+            "name": "雨滴",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -401,7 +471,7 @@
         },
         {
             "key": "玉米",
-            "name": "玉米｜APP",
+            "name": "玉米",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -415,7 +485,7 @@
         },
         {
             "key": "优质",
-            "name": "优质｜APP",
+            "name": "优质",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -429,7 +499,7 @@
         },
         {
             "key": "木叶",
-            "name": "木叶｜APP",
+            "name": "木叶",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -443,7 +513,7 @@
         },
         {
             "key": "米兔",
-            "name": "米兔｜APP",
+            "name": "米兔",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -457,7 +527,7 @@
         },
         {
             "key": "光速",
-            "name": "光速｜APP",
+            "name": "光速",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -471,7 +541,7 @@
         },
         {
             "key": "人人",
-            "name": "人人｜APP",
+            "name": "人人",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -485,7 +555,7 @@
         },
         {
             "key": "悠悠",
-            "name": "悠悠｜APP",
+            "name": "悠悠",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -499,7 +569,7 @@
         },
         {
             "key": "在看",
-            "name": "在看｜APP",
+            "name": "在看",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -513,7 +583,7 @@
         },
         {
             "key": "星河",
-            "name": "星河｜APP",
+            "name": "星河",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -527,7 +597,7 @@
         },
         {
             "key": "若惜",
-            "name": "若惜｜APP",
+            "name": "若惜",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -541,7 +611,7 @@
         },
         {
             "key": "外剧",
-            "name": "外剧｜APP",
+            "name": "外剧",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -555,7 +625,7 @@
         },
         {
             "key": "鲨鱼",
-            "name": "鲨鱼｜APP",
+            "name": "鲨鱼",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -569,7 +639,7 @@
         },
         {
             "key": "趣看",
-            "name": "趣看｜APP",
+            "name": "趣看",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppMuou",
@@ -582,7 +652,7 @@
         },
         {
             "key": "驿站",
-            "name": "驿站｜APP",
+            "name": "驿站",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppMuou",
@@ -595,7 +665,7 @@
         },
         {
             "key": "主角",
-            "name": "主角｜APP",
+            "name": "主角",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppMuou",
@@ -608,7 +678,7 @@
         },
         {
             "key": "二三",
-            "name": "二三｜APP",
+            "name": "二三",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppMuou",
@@ -868,7 +938,7 @@
         },
         {
             "key": "双星",
-            "name": "双星｜4K弹幕",
+            "name": "双星",
             "type": 3,
             "api": "./js/cloud.min.js",
             "ext": "./js/双星.js",
@@ -878,7 +948,7 @@
         },
         {
             "key": "懒盘",
-            "name": "懒盘｜4K弹幕",
+            "name": "懒盘",
             "type": 3,
             "api": "./js/cloud.min.js",
             "ext": "./js/懒盘.js",
@@ -887,48 +957,8 @@
             }
         },
         {
-            "key": "聚搜",
-            "name": "聚搜｜4K搜索",
-            "type": 3,
-            "api": "csp_PanWebSearch",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "米搜",
-            "name": "米搜｜4K搜索",
-            "type": 3,
-            "api": "./js/cloud.min.js",
-            "ext": "./js/米搜.js",
-            "style": {
-                "type": "list"
-            }
-        },
-        {
-            "key": "人人分享站",
-            "name": "人人｜4K搜索",
-            "type": 3,
-            "api": "./js/cloud.min.js",
-            "ext": "./js/人人.js",
-            "style": {
-                "type": "list"
-            }
-        },
-        {
-            "key": "全盘",
-            "name": "全盘｜4K搜索",
-            "type": 3,
-            "api": "./js/cloud.min.js",
-            "ext": "./js/全盘.js",
-            "style": {
-                "type": "list"
-            }
-        },
-        {
             "key": "爱搜UC",
-            "name": "爱UC｜4K弹幕",
+            "name": "爱UC",
             "type": 3,
             "api": "./js/cloud.min.js",
             "ext": "./js/爱搜UC.js",
@@ -938,7 +968,7 @@
         },
         {
             "key": "爱搜Quark",
-            "name": "爱Quark｜4K弹幕",
+            "name": "爱Quark",
             "type": 3,
             "api": "./js/cloud.min.js",
             "ext": "./js/爱搜Quark.js",
@@ -948,7 +978,7 @@
         },
         {
             "key": "爱搜Baidu",
-            "name": "爱Baidu｜4K弹幕",
+            "name": "爱Baidu",
             "type": 3,
             "api": "./js/cloud.min.js",
             "ext": "./js/爱搜Baidu.js",
@@ -957,8 +987,48 @@
             }
         },
         {
+            "key": "聚搜",
+            "name": "聚搜",
+            "type": 3,
+            "api": "csp_PanWebSearch",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "米搜",
+            "name": "米搜",
+            "type": 3,
+            "api": "./js/cloud.min.js",
+            "ext": "./js/米搜.js",
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "人人分享站",
+            "name": "人人",
+            "type": 3,
+            "api": "./js/cloud.min.js",
+            "ext": "./js/人人.js",
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "全盘",
+            "name": "全盘",
+            "type": 3,
+            "api": "./js/cloud.min.js",
+            "ext": "./js/全盘.js",
+            "style": {
+                "type": "list"
+            }
+        },
+        {
             "key": "夸克盘搜",
-            "name": "夸克盘搜｜4K搜索",
+            "name": "盘搜",
             "type": 3,
             "api": "./js/cloud.min.js",
             "ext": "./js/夸克盘搜.js",
@@ -990,7 +1060,7 @@
             "key": "短剧网",
             "name": "短剧网｜短剧",
             "type": 3,
-            "api": "csp_XBPQ",
+            "api": "csp_HBPQ",
             "ext": "./XBPQ/短剧网.json"
         },
         {
@@ -1236,35 +1306,35 @@
             "key": "可可影视",
             "name": "可可｜影视",
             "type": 3,
-            "api": "csp_XBPQ",
+            "api": "csp_HBPQ",
             "ext": "./XBPQ/可可影视.json"
         },
         {
             "key": "海纳影视",
             "name": "海纳｜影视",
             "type": 3,
-            "api": "csp_XBPQ",
+            "api": "csp_HBPQ",
             "ext": "./XBPQ/海纳影视.json"
         },
         {
             "key": "面包影视",
             "name": "面包｜影视",
             "type": 3,
-            "api": "csp_XBPQ",
+            "api": "csp_HBPQ",
             "ext": "./XBPQ/面包影视.json"
         },
         {
             "key": "永乐影视",
             "name": "永乐｜影视",
             "type": 3,
-            "api": "csp_XBPQ",
+            "api": "csp_HBPQ",
             "ext": "./XBPQ/永乐影视.json"
         },
         {
             "key": "雪糕影视",
             "name": "雪糕｜影视",
             "type": 3,
-            "api": "csp_XBPQ",
+            "api": "csp_HBPQ",
             "ext": "./XBPQ/雪糕影视.json"
         },
         {
@@ -1381,7 +1451,7 @@
             "key": "哆啦新番社",
             "name": "哆啦｜新番社",
             "type": 3,
-            "api": "csp_XBPQ",
+            "api": "csp_HBPQ",
             "style": {
                 "type": "list"
             },
@@ -1468,7 +1538,7 @@
             "key": "樱花动漫",
             "name": "樱花｜动漫",
             "type": 3,
-            "api": "csp_XBPQ",
+            "api": "csp_HBPQ",
             "ext": "./XBPQ/樱花动漫.json"
         },
         {
@@ -1560,7 +1630,7 @@
             "key": "修罗影视",
             "name": "修罗｜磁力",
             "type": 3,
-            "api": "csp_XBPQ",
+            "api": "csp_HBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1636,7 +1706,7 @@
             "key": "狐狸君",
             "name": "狐狸君｜磁力",
             "type": 3,
-            "api": "csp_XBPQ",
+            "api": "csp_HBPQ",
             "changeable": 1,
             "searchable": 1,
             "quickSearch": 1,
@@ -1647,7 +1717,7 @@
             "key": "布谷TV",
             "name": "布谷TV｜磁力",
             "type": 3,
-            "api": "csp_XBPQ",
+            "api": "csp_HBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1924,7 +1994,7 @@
             "key": "养生堂",
             "name": "养生｜知识",
             "type": 3,
-            "api": "csp_XBPQ",
+            "api": "csp_HBPQ",
             "ext": "./XBPQ/养生堂.json",
             "style": {
                 "type": "rect",
@@ -1943,7 +2013,7 @@
         },
         {
             "key": "push_agent",
-            "name": "手机｜推送",
+            "name": "推送",
             "type": 3,
             "api": "csp_Push",
             "searchable": 0,
