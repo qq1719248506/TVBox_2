@@ -734,126 +734,126 @@
     },
     {
       "key": "玩偶哥哥",
-      "name": "玩偶｜4K弹幕",
+      "name": "玩偶",
       "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/wogg.json"
+      "ext": "./json/wogg.json"
     },
     {
       "key": "木偶",
-      "name": "木偶｜4K弹幕",
+      "name": "木偶",
       "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/mogg.json"
+      "ext": "./json/mogg.json"
     },
     {
       "key": "蜡笔",
-      "name": "蜡笔｜4K弹幕",
+      "name": "蜡笔",
       "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./lib/lb.json"
+      "ext": "./json/lb.json"
     },
     {
       "key": "至臻",
-      "name": "至臻｜4K弹幕",
+      "name": "至臻",
       "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./lib/zz.json"
+      "ext": "./json/zz.json"
     },
     {
       "key": "多多",
-      "name": "多多｜4K弹幕",
+      "name": "多多",
       "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./lib/yyds.json"
+      "ext": "./json/yyds.json"
     },
     {
       "key": "欧哥",
-      "name": "欧哥｜4K弹幕",
+      "name": "欧哥",
       "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./lib/og.json"
+      "ext": "./json/og.json"
     },
     {
       "key": "二小",
-      "name": "二小｜4K弹幕",
+      "name": "二小",
       "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./lib/ex.json"
+      "ext": "./json/ex.json"
     },
     {
       "key": "大玩",
-      "name": "大玩｜4K弹幕",
+      "name": "大玩",
       "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./lib/dawo.json"
+      "ext": "./json/dawo.json"
     },
     {
       "key": "虎斑",
-      "name": "虎斑｜4K弹幕",
+      "name": "虎斑",
       "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./lib/hb.json"
+      "ext": "./json/hb.json"
     },
     {
       "key": "闪电",
-      "name": "闪电｜4K弹幕",
+      "name": "闪电",
       "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./lib/sd.json"
+      "ext": "./json/sd.json"
     },
     {
       "key": "奥秘",
-      "name": "奥秘｜4K弹幕",
+      "name": "奥秘",
       "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./lib/am.json"
+      "ext": "./json/am.json"
     },
     {
       "key": "团长",
-      "name": "团长｜4K弹幕",
+      "name": "团长",
       "type": 3,
       "api": "csp_PanWebTz",
       "searchable": 1,
@@ -863,7 +863,7 @@
     },
     {
       "key": "雷鲸",
-      "name": "雷鲸｜4K弹幕",
+      "name": "雷鲸",
       "type": 3,
       "api": "csp_PanWebShareCloudLJ",
       "searchable": 1,
@@ -874,11 +874,11 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "./lib/lj.json"
+      "ext": "./json/lj.json"
     },
     {
       "key": "海绵",
-      "name": "海绵｜4K弹幕",
+      "name": "海绵",
       "type": 3,
       "api": "csp_PanWebShareCloudHM",
       "searchable": 1,
@@ -889,11 +889,11 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "./lib/hm.json"
+      "ext": "./json/hm.json"
     },
     {
       "key": "夸父",
-      "name": "夸父｜4K弹幕",
+      "name": "夸父",
       "type": 3,
       "api": "csp_PanWebShareCloudKF",
       "searchable": 1,
@@ -904,11 +904,11 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "./lib/kf.json"
+      "ext": "./json/kf.json"
     },
     {
       "key": "趣盘",
-      "name": "趣盘｜4K弹幕",
+      "name": "趣盘",
       "type": 3,
       "api": "csp_PanWebQu",
       "searchable": 1,
@@ -925,7 +925,7 @@
     },
     {
       "key": "盘库",
-      "name": "盘库｜4K弹幕",
+      "name": "盘库",
       "type": 3,
       "api": "csp_PanWebKuBa",
       "searchable": 1,
@@ -941,7 +941,7 @@
       "name": "双星",
       "type": 3,
       "api": "./lib/cloud.min.js",
-      "ext": "./lib/双星.js",
+      "ext": "./js/双星.js",
       "style": {
         "type": "list"
       }
@@ -951,7 +951,7 @@
       "name": "懒盘",
       "type": 3,
       "api": "./lib/cloud.min.js",
-      "ext": "./lib/懒盘.js",
+      "ext": "./js/懒盘.js",
       "style": {
         "type": "list"
       }
@@ -961,7 +961,7 @@
       "name": "爱UC",
       "type": 3,
       "api": "./lib/cloud.min.js",
-      "ext": "./lib/爱搜UC.js",
+      "ext": "./js/爱搜UC.js",
       "style": {
         "type": "list"
       }
@@ -971,7 +971,7 @@
       "name": "爱Quark",
       "type": 3,
       "api": "./lib/cloud.min.js",
-      "ext": "./lib/爱搜Quark.js",
+      "ext": "./js/爱搜Quark.js",
       "style": {
         "type": "list"
       }
@@ -981,7 +981,7 @@
       "name": "爱Baidu",
       "type": 3,
       "api": "./lib/cloud.min.js",
-      "ext": "./lib/爱搜Baidu.js",
+      "ext": "./js/爱搜Baidu.js",
       "style": {
         "type": "list"
       }
@@ -1001,7 +1001,7 @@
       "name": "米搜",
       "type": 3,
       "api": "./lib/cloud.min.js",
-      "ext": "./lib/米搜.js",
+      "ext": "./js/米搜.js",
       "style": {
         "type": "list"
       }
@@ -1011,7 +1011,7 @@
       "name": "人人",
       "type": 3,
       "api": "./lib/cloud.min.js",
-      "ext": "./lib/人人.js",
+      "ext": "./js/人人.js",
       "style": {
         "type": "list"
       }
@@ -1021,7 +1021,7 @@
       "name": "全盘",
       "type": 3,
       "api": "./lib/cloud.min.js",
-      "ext": "./lib/全盘.js",
+      "ext": "./js/全盘.js",
       "style": {
         "type": "list"
       }
@@ -1031,7 +1031,7 @@
       "name": "盘搜",
       "type": 3,
       "api": "./lib/cloud.min.js",
-      "ext": "./lib/夸克盘搜.js",
+      "ext": "./js/夸克盘搜.js",
       "style": {
         "type": "list"
       }
