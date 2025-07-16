@@ -100,6 +100,34 @@
       }
     },
     {
+      "key": "知了",
+      "name": "知了",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://zzos.cc",
+        "dataKey": "zzoccc2025555555",
+        "dataIv": "zzoccc2025555555",
+        "deviceId": "",
+        "version": "119"
+      }
+    },
+    {
+      "key": "APP4K",
+      "name": "蓝光",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://59.153.167.186",
+        "dataKey": "SDSFET23215FDSF2",
+        "dataIv": "SDSFET23215FDSF2",
+        "deviceId": "",
+        "version": "119"
+      }
+    },    
+    {
       "key": "麻花",
       "name": "麻花",
       "type": 3,
