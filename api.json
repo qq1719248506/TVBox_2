@@ -1474,6 +1474,64 @@
       }
     },
     {
+      "key": "神马影视",
+      "name": "神马",
+      "type": 1,
+      "api": "https://www.vod38.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "动作片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "纪录片",
+        "国产剧",
+        "海外剧",
+        "理论片",
+        "邵氏片",
+        "动画片"
+      ]
+    },
+    {
+      "key":"茅台资源",
+      "name": "茅台",
+      "type": 1,
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "动作片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "伦理片"
+      ]
+    },
+    {
+      "key": "豪华资源",
+      "name": "豪华",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "动作片",
+        "恐怖片",
+        "战争片",
+        "科幻片",
+        "爱情片",
+        "喜剧片",
+        "记录片",
+        "动画片",
+        "中国动漫",
+        "奇幻片",
+        "伦理片"
+      ]
+    },    
+    {
       "key": "push_agent",
       "name": "推送",
       "type": 3,
@@ -1710,7 +1768,7 @@
     {
       "name": "AI直播",
       "type": 0,
-      "url": "./lib/user_result.txt",
+      "url": "https://github.3x25.com/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1,
       "timeout": 10
@@ -1718,7 +1776,7 @@
     {
       "name": "Guovin",
       "type": 0,
-      "url": "./lib/result.m3u",
+      "url": "https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u",
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "timeout": 10
     },
@@ -1739,13 +1797,20 @@
     {
       "name": "范明明",
       "type": 0,
-      "url": "./lib/ipv6.m3u",
+      "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
       "timeout": 10
     },
     {
+      "name": "点播",
+      "type": 0,
+      "url": "https://github.3x25.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/json/tv资源.txt",
+      "playerType": 2,
+      "timeout": 10
+    },    
+    {
       "name": "APTV",
       "type": 0,
-      "url": "./lib/iptv.m3u",
+      "url": "https://github.3x25.com/https://github.com/Kimentanm/aptv/raw/master/m3u/iptv.m3u",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.iill.top/logo/{name}.png",
       "ua": "okhttp/3.15,AptvPlayer/1.4.0",
