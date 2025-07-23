@@ -45,6 +45,160 @@
   ],
   "sites": [
     {
+      "key": "dr_AppGet_桃子",
+      "name": "桃子",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/AppGet.js?type=url&params=https://appcms.tzys.xyz$KL6vlZkw6WL5x90U$KL6vlZkw6WL5x90U"
+    },
+    {
+      "key":"drjs_麻花",
+      "name":"麻花",
+      "type":3,
+      "api":"./lib/drpy2.min.js",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./lib/AppGet.js?type=url&params=https://apicoss-alimama-com-1307821617.file.myqcloud.com/Uploadsget$q7gj4f9br3fls6nh$q7gj4f9br3fls6nh"
+    },
+    {
+      "key":"drjs_豆丁",
+      "name":"豆丁",
+      "type":3,
+      "api":"./lib/drpy2.min.js",
+      "ext":"./lib/AppGet.js?type=url&params=http://110.42.7.59:9488$xasdasdqwertyuio$xasdasdqwertyuio"
+    },
+    {
+      "key":"drjs_灵虎",
+      "name":"灵虎",
+      "type":3,
+      "api":"./lib/drpy2.min.js",
+      "ext":"./lib/AppGet.js?type=url&params=http://app.555618.xyz:1766$#getapp@TMD@2025$#getapp@TMD@2025"
+    },
+    {
+      "key":"drjs_鲶鱼",
+      "name":"鲶鱼",
+      "type":3,
+      "api":"./lib/drpy2.min.js",
+      "ext":"./lib/AppGet.js?type=url&params=http://47.122.22.78$2234567890123456$2234567890123456"
+    },
+    {
+      "key":"drjs_码头",
+      "name":"码头",
+      "type":3,
+      "api":"./lib/drpy2.min.js",
+      "ext":"./lib/AppGet.js?type=url&params=https://www.lgmt.cc$asfjaskasgggassf$asfjaskasgggassf"
+    },
+    {
+      "key":"drjs_米诺",
+      "name":"米诺",
+      "type":3,
+      "api":"./lib/drpy2.min.js",
+      "ext":"./lib/AppGet.js?type=url&params=http://www.milkidc.cn$20c79c979da8db0f$20c79c979da8db0f"
+    },
+    {
+      "key":"drjs_萝卜",
+      "name":"萝卜",
+      "type":3,
+      "api":"./lib/drpy2.min.js",
+      "ext":"./lib/AppGet.js?type=url&params=https://apiapplbys.lbys.app:5678$apiapplbyskey168$apiapplbyskey168"
+    },
+    {
+      "key":"drjs_小红",
+      "name":"小红",
+      "type":3,
+      "api":"./lib/drpy2.min.js",
+      "ext":"./lib/AppGet.js?type=url&params=https://www.xiaohys.com$ENonBHeVBoYZhVUV$ENonBHeVBoYZhVUV"
+    }, 
+    {
+      "key":"drjs_仓鼠",
+      "name":"仓鼠",
+      "type":3,
+      "api":"./lib/drpy2.min.js",
+      "ext":"./lib/AppGet.js?type=url&params=https://qjappcms.cs4k.top$Z98KXaLtO2wC1Pte$Z98KXaLtO2wC1Pte"
+    },
+    {
+      "key":"drjs_光盘",
+      "name":"光盘",
+      "type":3,
+      "api":"./lib/drpy2.min.js",
+      "ext":"./lib/AppGet.js?type=url&params=http://119.13.88.18$xnybssspqtwotuwj$xnybssspqtwotuwj"
+    },
+    {
+      "key":"drjs_客星",
+      "name":"客星",
+      "type":3,
+      "api":"./lib/drpy2.min.js",
+      "ext":"./lib/AppGet.js?type=url&params=https://api.hiapp.com.cn$2268331221bobobo$2268331221bobobo"
+    },
+    {
+      "key":"drjs_云速",
+      "name":"云速",
+      "type":3,
+      "api":"./lib/drpy2.min.js",
+      "ext":"./lib/AppGet.js?type=url&params=http://59.153.167.137:7788/1.json$4d83b87c4c5ea111$4d83b87c4c5ea111"
+    },
+    {
+      "key":"drjs_魔方",
+      "name":"魔方",
+      "type":3,
+      "api":"./lib/drpy2.min.js",
+      "ext":"./lib/AppGet.js?type=url&params=https://mfsp33.top$1234567887654321$1234567887654321"
+    },
+    {
+      "key":"drjs_诺映",
+      "name":"诺映",
+      "type":3,
+      "api":"./lib/drpy2.min.js",
+      "ext":"./lib/AppGet.js?type=url&params=https://www.noad.top$708FA298F0855840$708FA298F0855840"
+    },
+    {
+      "key":"drjs_海豚",
+      "name":"海豚",
+      "type":3,
+      "api":"./lib/drpy2.min.js",
+      "ext":"./lib/AppGet.js?type=url&params=https://appcms.htsp4k.top$7CYQQzwchRQpHCOj$7CYQQzwchRQpHCOj"
+    },
+    {
+      "key":"drjs_溜溜",
+      "name":"溜溜",
+      "type":3,
+      "api":"./lib/drpy2.min.js",
+      "ext":"./lib/AppGet.js?type=url&params=https://appcms.ll4k.xyz$NiDGaKiVnkO3QX1Q$NiDGaKiVnkO3QX1Q"
+    },
+    {
+      "key":"drjs_剧咖",
+      "name":"剧咖",
+      "type":3,
+      "api":"./lib/drpy2.min.js",
+      "ext":"./lib/AppGet.js?type=url&params=https://ys.xiaoqi0.cn$jukayingshi88888$jukayingshi88888"
+    },
+    {
+      "key":"drjs_瓜萌",
+      "name":"瓜萌",
+      "type":3,
+      "api":"./lib/drpy2.min.js",
+      "ext":"./lib/AppGet.js?type=url&params=https://www.guahd.com$f2A7D4B9E8C16531$f2A7D4B9E8C16531"
+    },
+    {"key":"drjs_晴天","name":"雷蒙影视 | 👺晴天(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./dr_py/libs/AppGet.js?type=url&params=https://qjappcms.sun4k.top$sBxqXVF5pAHbGzrH$sBxqXVF5pAHbGzrH"},
+    {"key":"drjs_再看","name":"雷蒙影视 | 👺再看(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./dr_py/libs/AppGet.js?type=url&params=http://149.88.64.161:8627$123456789ABCDEFG$123456789ABCDEFG"},
+    {"key":"drjs_橘子","name":"雷蒙影视 | 👺橘子(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./dr_py/libs/AppGet.js?type=url&params=https://api1.bffree.cn$2015692015692015$2015692015692015"},
+    {"key":"drjs_彼岸","name":"雷蒙影视 | 👺彼岸(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./dr_py/libs/AppGet.js?type=url&params=https://mfsp33.top$1234567887654321$1234567887654321"},
+    {"key":"drjs_雨滴","name":"雷蒙影视 | 👺雨滴(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./dr_py/libs/AppGet.js?type=url&params=https://c8w2ov7u5wg2z1o8p21c.aliyuncs.click:27899$k9o3p2c8b7m3z0o8$k9o3p2c8b7m3z0o8"},
+    {"key":"drjs_米兔","name":"雷蒙影视 | 👺米兔(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./dr_py/libs/AppGet.js?type=url&params=http://v.tkbot.fun$d032c12876bc6848$d032c12876bc6848"},
+    {"key":"drjs_在看","name":"雷蒙影视 | 👺在看(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./dr_py/libs/AppGet.js?type=url&params=http://149.88.64.161:9525$123456789ABCDEFG$123456789ABCDEFG"},
+    {"key":"drjs_星河","name":"雷蒙影视 | 👺星河(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./dr_py/libs/AppGet.js?type=url&params=http://121.62.22.204:9876$f5e2tx53ykp6s2c9$f5e2tx53ykp6s2c9"},
+    {"key":"drjs_若惜","name":"雷蒙影视 | 👺若惜(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./dr_py/libs/AppGet.js?type=url&params=http://110.40.59.188:9527$ebad3f1a58b13933$ebad3f1a58b13933"},
+    {"key":"drjs_外剧","name":"雷蒙影视 | 👺外剧(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./dr_py/libs/AppGet.js?type=url&params=https://guowaiju.com$7xv16h7qgkrs9b1p$7xv16h7qgkrs9b1p"},
+    {"key":"drjs_曼波","name":"雷蒙影视 | 👺曼波(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./dr_py/libs/AppGet.js?type=url&params=https://app.omofun1.top$66dc309cbeeca454$66dc309cbeeca454"},
+    {"key":"drjs_稀饭","name":"雷蒙影视 | 👺稀饭(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./dr_py/libs/AppGet.js?type=url&params=https://pzoap.moedot.net$1yZ2Spn9krnzVKoC$1yZ2Spn9krnzVKoC"},
+    {"key":"drjs_咕咕","name":"雷蒙影视 | 👺咕咕(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./dr_py/libs/AppGet.js?type=url&params=https://www.gugu3.com$nKfZ8KX6JTNWRzTD$nKfZ8KX6JTNWRzTD"},
+    {"key":"drjs_米饭","name":"雷蒙影视 | 👺米饭(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./dr_py/libs/AppGet.js?type=url&params=http://45.43.29.111:9527$GETMIFUNGEIMIFUN$GETMIFUNGEIMIFUN"},
+    {"key":"drjs_次元","name":"雷蒙影视 | 👺次元(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./dr_py/libs/AppGet.js?type=url&params=https://jjjj.nilinili.org$672263e98f232a05$672263e98f232a05"},
+    {"key":"drjs_派对","name":"雷蒙影视 | 👺派对(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./dr_py/libs/AppGet.js?type=url&params=https://qjappcms.acg.party$AmtMYFCJDPoTlK7z$AmtMYFCJDPoTlK7z"},
+    {"key":"drjs_丫丫","name":"雷蒙影视 | 👺丫丫(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./dr_py/libs/AppGet.js?type=url&params=http://tv.yy-fun.cc$qkxnwkfjwpcnwycl$qkxnwkfjwpcnwycl"},
+    {"key":"drjs_黑猫","name":"雷蒙影视 | 👺黑猫(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./dr_py/libs/AppGet.js?type=url&params=https://dm.xxdm123.top:9991$0fe3b5781782c621$0fe3b5781782c621"},
+    {
       "key": "Tg | 豆瓣",
       "name": "Tg | 豆瓣",
       "type": 3,
@@ -105,19 +259,6 @@
       "changeable": 0,
       "ext":"http://127.0.0.1:9966/api/proxy/https://lemonlive25.pages.dev"
     },
-//    {
-//      "key": "玩偶 | 清影",
-//      "name": "玩偶 | 清影",
-//      "type": 3,
-//      "api": "csp_kongbai",
-//      "searchable": 1,
-//      "changeable": 0,
-//      "ext": {
-//        "commonConfig": "./json/peizhi.json",
-//        "siteUrl": "https://revohd.com/",
-//        "filter": "./json/wogg.json"
-//      }
-//    },
     {
       "key": "玩偶 | 大玩偶",
       "name": "玩偶 | 大玩偶",
