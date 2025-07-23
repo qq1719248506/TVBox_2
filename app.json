@@ -1,5 +1,5 @@
 {
-  "spider": "./custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
+  "spider": "./custom_spider.jar;md5;7255da1955e575c639853d85c6a58ccd",
   "wallpaper": "https://bing.img.run/rand.php",
   "lives": [
     {
@@ -44,6 +44,20 @@
     }
   ],
   "sites": [
+    {
+      "key":"dr_豆瓣",
+      "name":"豆瓣",
+      "type":3,
+      "api":"./lib/drpy2.min.js",
+      "ext":"./lib/豆瓣[官].js"
+    },
+    {
+      "key":"dr_武享吧",
+      "name":"武吧",
+      "type":3,
+      "api":"./lib/drpy2.min.js",
+      "ext":"./lib/武享吧.js"
+    },    
     {
       "key": "dr_AppGet_桃子",
       "name": "桃子",
