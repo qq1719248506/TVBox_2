@@ -266,11 +266,21 @@
     },
     {
       "key":"drjs_丫丫",
-      "name":"雷蒙影视 | 👺丫丫(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./dr_py/libs/AppGet.js?type=url&params=http://tv.yy-fun.cc$qkxnwkfjwpcnwycl$qkxnwkfjwpcnwycl"},
-    {"key":"drjs_黑猫","name":"雷蒙影视 | 👺黑猫(DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./dr_py/libs/AppGet.js?type=url&params=https://dm.xxdm123.top:9991$0fe3b5781782c621$0fe3b5781782c621"},
+      "name":"丫丫",
+      "type":3,
+      "api":"./lib/drpy2.min.js",
+      "ext":"./lib/AppGet.js?type=url&params=http://tv.yy-fun.cc$qkxnwkfjwpcnwycl$qkxnwkfjwpcnwycl"
+    },
+    {
+      "key":"drjs_黑猫",
+      "name":"黑猫",
+      "type":3,
+      "api":"./lib/drpy2.min.js",
+      "ext":"./lib/AppGet.js?type=url&params=https://dm.xxdm123.top:9991$0fe3b5781782c621$0fe3b5781782c621"
+    },
     {
       "key": "Tg | 豆瓣",
-      "name": "Tg | 豆瓣",
+      "name": "豆瓣",
       "type": 3,
       "api": "csp_TgYunDouBanPan",
       "searchable": 1,
@@ -285,7 +295,7 @@
     },
     {
       "key": "ConfigCenter",
-      "name": "配置中心",
+      "name": "配置",
       "type": 3,
       "api": "csp_ConfigCenter",
       "searchable": 0,
@@ -296,7 +306,7 @@
     },
     {
       "key": "网盘集合",
-      "name": "网盘集合 | 4K",
+      "name": "网盘",
       "type": 3,
       "api": "csp_网盘集合",
       "searchable": 1,
@@ -309,7 +319,7 @@
     },
     {
       "key": "网盘 | 片库",
-      "name": "网盘 | 片库",
+      "name": "片库",
       "type": 3,
       "api": "csp_Qiwei",
       "searchable": 1,
@@ -322,7 +332,7 @@
     },
     {
       "key": "游戏 | 直播",
-      "name": "游戏 | 直播",
+      "name": "游戏",
       "type": 3,
       "api": "csp_Living",
       "searchable": 1,
@@ -331,7 +341,7 @@
     },
     {
       "key": "玩偶 | 大玩偶",
-      "name": "玩偶 | 大玩偶",
+      "name": "玩偶",
       "type": 3,
       "api": "csp_kongbai",
       "searchable": 1,
@@ -344,7 +354,7 @@
     },
     {
       "key": "玩偶 | 闪电uc",
-      "name": "玩偶 | 闪电uc",
+      "name": "闪电",
       "type": 3,
       "api": "csp_kongbai",
       "searchable": 1,
@@ -357,7 +367,7 @@
     },
     {
       "key": "玩偶 | 二小",
-      "name": "玩偶 | 二小",
+      "name": "二小",
       "type": 3,
       "api": "csp_kongbai",
       "searchable": 1,
@@ -370,7 +380,7 @@
     },
     {
       "key": "玩偶 | 小米",
-      "name": "玩偶 | 小米",
+      "name": "小米",
       "type": 3,
       "api": "csp_kongbai",
       "searchable": 1,
@@ -383,7 +393,7 @@
     },
     {
       "key": "玩偶 | 多多",
-      "name": "玩偶 | 多多",
+      "name": "多多",
       "type": 3,
       "api": "csp_kongbai",
       "searchable": 1,
@@ -396,7 +406,7 @@
     },
     {
       "key": "玩偶 | 蜡笔",
-      "name": "玩偶 | 蜡笔",
+      "name": "蜡笔",
       "type": 3,
       "api": "csp_kongbai",
       "searchable": 1,
@@ -409,7 +419,7 @@
     },
     {
       "key": "玩偶 | 木偶",
-      "name": "玩偶 | 木偶",
+      "name": "木偶",
       "type": 3,
       "api": "csp_kongbai",
       "searchable": 1,
@@ -422,7 +432,7 @@
     },
     {
       "key": "玩偶gg",
-      "name": "玩偶 | 饭",
+      "name": "米饭",
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,
@@ -435,7 +445,7 @@
     },
     {
       "key": "星剧社",
-      "name": "网盘 | 星剧社",
+      "name": "剧社",
       "type": 3,
       "api": "csp_Star2",
       "searchable": 1,
@@ -465,7 +475,7 @@
     },
     {
       "key": "盤搜天意",
-      "name": "网盘 | 盤搜天意",
+      "name": "盤搜",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
@@ -487,7 +497,7 @@
     },
     {
       "key": "lf_live10_min",
-      "name": "路飞丨Live",
+      "name": "路飞",
       "type": 3,
       "searchable": 0,
       "quickSearch": 1,
@@ -528,7 +538,7 @@
     },
     {
       "key": "盘Ta",
-      "name": "网盘 | 盘Ta",
+      "name": "盘Ta",
       "type": 3,
       "api": "csp_PanTa",
       "searchable": 1,
@@ -541,7 +551,7 @@
     },
     {
       "key": "小雷",
-      "name": "网盘 | 小雷",
+      "name": "小雷",
       "type": 3,
       "api": "csp_PanTa",
       "searchable": 1,
@@ -555,7 +565,7 @@
 
     {
       "key": "易搜",
-      "name": "易搜 | 4K",
+      "name": "易搜",
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
@@ -568,7 +578,7 @@
     },
     {
       "key": "盤搜索",
-      "name": "网盘 | 盤搜索",
+      "name": "盤寻",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
@@ -579,7 +589,7 @@
     },
     {
       "key": "紙條搜",
-      "name": "网盘 | 紙條搜",
+      "name": "紙條",
       "type": 3,
       "api": "csp_XiaoZhiTiao",
       "searchable": 1,
@@ -609,10 +619,98 @@
         "commonConfig": "./json/peizhi.json"
       }
     },
-
+    {
+      "key":"csp_XBPQ_速影",
+      "name":"速影",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":{
+        "站名":"速影",
+        "请求头":"User-Agent$MOBILE_UA",
+        "编码":"UTF-8",
+        "标题":"title=\"&&\"",
+        "图片":"background-image: url('&&'",
+        "链接":"href=\"&&\"",
+        "数组":"stui-vodlist__box\">&&</div>",
+        "线路数组":"title\">&&</h3>",
+        "线路标题":"<span>&&</span>",
+        "副标题":"pic-text text-right\">&&</span>",
+        "播放标题":">&&</",
+        "播放链接":"href='&&'",
+        "播放列表":"<a&&</a",
+        "跳转播放链接":"",
+        "播放数组":"stui-content__playlist&&</ul>",
+        "简介":"简介：</span>&&</p >",
+        "搜索url":"https://xn--94qq85au3qyvbe13c.com/vodsearch/{wd}----------{pg}---.html",
+        "搜索模式":"1",
+        "嗅探词":".m3u8#.mp4",
+        "分类url":"https://xn--94qq85au3qyvbe13c.com/movie-type-id-{cateId}-pg-{catePg}.html",
+        "分类":"电影$1#电视剧$2#综艺$3#动漫$4#伦理片$22"
+      }
+    },
+    {
+      "key": "神马影视",
+      "name": "神马",
+      "type": 1,
+      "api": "https://www.vod38.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "动作片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "纪录片",
+        "国产剧",
+        "海外剧",
+        "理论片",
+        "邵氏片",
+        "动画片"
+      ]
+    },
+    {
+      "key":"茅台资源",
+      "name": "茅台",
+      "type": 1,
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "动作片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "伦理片"
+      ]
+    },
+    {
+      "key": "豪华资源",
+      "name": "豪华",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "动作片",
+        "恐怖片",
+        "战争片",
+        "科幻片",
+        "爱情片",
+        "喜剧片",
+        "记录片",
+        "动画片",
+        "奇幻片",
+        "伦理片"
+      ]
+    }, 
     {
       "key": "360资源",
-      "name": "360资源-采集",
+      "name": "360",
       "type": 1,
       "api": "https://360zy.com/api.php/seaxml/vod/",
       "searchable": 1,
@@ -690,7 +788,7 @@
     },
     {
       "key": "豆瓣采集资源",
-      "name": "豆瓣 | 采集",
+      "name": "豆瓣",
       "type": 1,
       "api": "https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/josn/",
       "playerType": 1,
