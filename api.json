@@ -1,5 +1,5 @@
 {
-  "spider": "./pizazz.jar;md5;b8ea1c72c67ea517e4069da125b862cb",
+  "spider": "./spider.jar",
   "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
   "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
   "sites": [
@@ -23,6 +23,13 @@
         "ratio": 1.597
       }
     },
+    {
+      "key":"drjs_星河",
+      "name":"星河",
+      "type":3,
+      "api":"https://gitee.com/abac1984/another-d/raw/master/js/drpy2.min.js",
+      "ext":"https://gitee.com/abac1984/another-d/raw/master/js/AppGet.js?type=url&params=http://121.62.22.204:9876$f5e2tx53ykp6s2c9$f5e2tx53ykp6s2c9"
+    }, 
     {
       "key": "热播影视",
       "name": "热播",
@@ -60,16 +67,14 @@
       }
     },
     {
-      "key": "行动",
-      "name": "行动",
+      "key": "闪影",
+      "name": "闪影",
       "type": 3,
-      "api": "csp_AppSy",
-      "ext": {
-        "url": "http://160.202.246.9:2356",
-        "key1": "aassddwwxxllsx1x",
-        "key2": "aassddwwxxllsx1x",
-        "key3": "aassddwwxxllsx1x"
-      }
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod"
     },
     {
       "key": "追忆",
@@ -84,6 +89,18 @@
       }
     },
     {
+      "key": "行动",
+      "name": "行动",
+      "type": 3,
+      "api": "csp_AppSy",
+      "ext": {
+        "url": "http://160.202.246.9:2356",
+        "key1": "aassddwwxxllsx1x",
+        "key2": "aassddwwxxllsx1x",
+        "key3": "aassddwwxxllsx1x"
+      }
+    },
+    {
       "key": "咖啡",
       "name": "咖啡",
       "type": 3,
@@ -91,24 +108,24 @@
       "api": "csp_AppGet2",
       "ext": {
         "url": "",
-        "site": "https://cdn-tupic-duofun-neimenggu.56uxi.com/2.txt",
-        "dataKey": "qwertyuiopqwertt",
-        "dataIv": "qwertyuiopqwertt",
+        "site": "https://omofun.lol/coffee.txt",
+        "dataKey": "qwertyuiopqwertm",
+        "dataIv": "qwertyuiopqwertm",
         "deviceId": "",
-        "version": "109",
+        "version": "",
         "ua": "okhttp/3.10.0"
       }
     },
     {
-      "key": "知了",
-      "name": "知了",
+      "key": "稀饭",
+      "name": "稀饭",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
       "ext": {
-        "url": "https://zzos.cc",
-        "dataKey": "zzoccc2025555555",
-        "dataIv": "zzoccc2025555555",
+        "url": "https://app.xifanys.com",
+        "dataKey": "HM6Ly9yeS4ya3dvL",
+        "dataIv": "HM6Ly9yeS4ya3dvL",
         "deviceId": "",
         "version": "119"
       }
@@ -126,7 +143,7 @@
         "deviceId": "",
         "version": "119"
       }
-    },    
+    },
     {
       "key": "麻花",
       "name": "麻花",
@@ -134,8 +151,8 @@
       "quickSearch": 1,
       "api": "csp_AppGet",
       "ext": {
-        "url": "",
-        "site": "https://apicoss-alimama-com-1307821617.file.myqcloud.com/Uploadsget",
+        "url": "http://124.223.27.166:130",
+        "site": "",
         "dataKey": "q7gj4f9br3fls6nh",
         "dataIv": "q7gj4f9br3fls6nh",
         "deviceId": "",
@@ -173,15 +190,16 @@
       }
     },
     {
-      "key": "橘猫",
-      "name": "橘猫",
+      "key": "顾我",
+      "name": "顾我",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet2",
       "ext": {
-        "url": "https://qjappcms.jm4k.top",
-        "dataKey": "pBVmysmGX8TsgrQN",
-        "dataIv": "pBVmysmGX8TsgrQN",
+        "url": "",
+        "site": "https://guwozj-1319364746.cos.ap-guangzhou.myqcloud.com/app.txt",
+        "dataKey": "ca94b06ca3c7d80e",
+        "dataIv": "ca94b06ca3c7d80e",
         "deviceId": "",
         "version": "120"
       }
@@ -236,7 +254,7 @@
       "quickSearch": 1,
       "api": "csp_AppGet2",
       "ext": {
-        "url": "https://qjappcms.cs4k.top",
+        "url": "https://newappcms.cs4k.top",
         "dataKey": "Z98KXaLtO2wC1Pte",
         "dataIv": "Z98KXaLtO2wC1Pte",
         "deviceId": "",
@@ -274,20 +292,6 @@
       }
     },
     {
-      "key": "鲶鱼",
-      "name": "鲶鱼",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://47.122.22.78",
-        "dataKey": "2234567890123456",
-        "dataIv": "2234567890123456",
-        "deviceId": "",
-        "version": ""
-      }
-    },
-    {
       "key": "码头",
       "name": "码头",
       "type": 3,
@@ -311,20 +315,6 @@
         "dataIv": "20c79c979da8db0f",
         "deviceId": "",
         "version": ""
-      }
-    },
-    {
-      "key": "光盘",
-      "name": "光盘",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://119.13.88.18",
-        "dataKey": "xnybssspqtwotuwj",
-        "dataIv": "xnybssspqtwotuwj",
-        "deviceId": "",
-        "version": "101"
       }
     },
     {
@@ -357,15 +347,15 @@
       }
     },
     {
-      "key": "魔方",
-      "name": "魔方",
+      "key": "瓜萌",
+      "name": "瓜萌",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
       "ext": {
-        "url": "https://mfsp33.top",
-        "dataKey": "1234567887654321",
-        "dataIv": "1234567887654321",
+        "url": "https://www.guahd.com",
+        "dataKey": "f2A7D4B9E8C16531",
+        "dataIv": "f2A7D4B9E8C16531",
         "deviceId": "",
         "version": ""
       }
@@ -399,20 +389,6 @@
       }
     },
     {
-      "key": "瓜萌",
-      "name": "瓜萌",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://www.guahd.com",
-        "dataKey": "f2A7D4B9E8C16531",
-        "dataIv": "f2A7D4B9E8C16531",
-        "deviceId": "",
-        "version": ""
-      }
-    },
-    {
       "key": "晴天",
       "name": "晴天",
       "type": 3,
@@ -424,20 +400,6 @@
         "dataIv": "sBxqXVF5pAHbGzrH",
         "deviceId": "",
         "version": "119"
-      }
-    },
-    {
-      "key": "再看",
-      "name": "再看",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://149.88.64.161:8627",
-        "dataKey": "123456789ABCDEFG",
-        "dataIv": "123456789ABCDEFG",
-        "deviceId": "2bb4c10f3e043307dbfc579bd0db23f4e",
-        "version": "110"
       }
     },
     {
@@ -536,20 +498,6 @@
         "dataIv": "123456789ABCDEFG",
         "deviceId": "",
         "version": ""
-      }
-    },
-    {
-      "key": "星河",
-      "name": "星河",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://121.62.22.204:9876",
-        "dataKey": "f5e2tx53ykp6s2c9",
-        "dataIv": "f5e2tx53ykp6s2c9",
-        "deviceId": "",
-        "version": "361"
       }
     },
     {
@@ -666,11 +614,11 @@
       "ext": "https://gitee.com/abac1984/another-d/raw/master/movie/js/YKSP.js"
     },
     {
-      "key": "芒果视频",
-      "name": "芒果",
+      "key": "武享吧",
+      "name": "武享吧",
       "type": 3,
       "api": "https://gitee.com/abac1984/another-d/raw/master/js/drpy2.min.js",
-      "ext": "https://gitee.com/abac1984/another-d/raw/master/movie/js/MGSP.js"
+      "ext": "https://gitee.com/abac1984/another-d/raw/master/movie/js/武享吧.js"
     },
     {
       "key": "小斑快映",
@@ -1529,7 +1477,7 @@
         "搜索url":"https://xn--94qq85au3qyvbe13c.com/vodsearch/{wd}----------{pg}---.html",
         "搜索模式":"1",
         "嗅探词":".m3u8#.mp4",
-        "分类url":"https://xn--94qq85au3qyvbe13c.com/movie-type-id-{cateId}-pg-{catePg}.html",
+        "分类url":"https://xn--94qq85au3qyvbe13c.com/{cateid}-pg-fypage-order-desc-by-dayhits-class-0-year-{year}-letter-{letter}-area-{area}-lang-.html",
         "分类":"电影$1#电视剧$2#综艺$3#动漫$4#伦理片$22"
       }
     },
