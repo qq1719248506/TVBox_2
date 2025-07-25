@@ -24,12 +24,19 @@
       }
     },
     {
-      "key":"drjs_星河",
+      "key":"dr_AppGet_星河",
       "name":"星河",
       "type":3,
       "api":"https://gitee.com/abac1984/another-d/raw/master/js/drpy2.min.js",
       "ext":"https://gitee.com/abac1984/another-d/raw/master/js/AppGet.js?type=url&params=http://121.62.22.204:9876$f5e2tx53ykp6s2c9$f5e2tx53ykp6s2c9"
-    }, 
+    },
+    {
+      "key": "dr_AppGet_豆丁",
+      "name": "豆丁",
+      "type": 3,
+      "api": "https://gitee.com/abac1984/another-d/raw/master/js/drpy2.min.js",
+      "ext": "https://gitee.com/abac1984/another-d/raw/master/js/AppGet.js?type=url&params=http://110.42.7.59:9066$xasdasdqwertyuio$xasdasdqwertyuio"
+    },
     {
       "key": "热播影视",
       "name": "热播",
@@ -173,7 +180,7 @@
         "deviceId": "",
         "version": ""
       }
-    },
+    },    
     {
       "key": "灵虎",
       "name": "灵虎",
