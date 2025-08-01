@@ -24,20 +24,6 @@
       }
     },
     {
-      "key":"dr_AppGet_星河",
-      "name":"星河",
-      "type":3,
-      "api":"https://gitee.com/abac1984/another-d/raw/master/js/drpy2.min.js",
-      "ext":"https://gitee.com/abac1984/another-d/raw/master/js/AppGet.js?type=url&params=http://121.62.22.204:9876$f5e2tx53ykp6s2c9$f5e2tx53ykp6s2c9"
-    },
-    {
-      "key": "dr_AppGet_豆丁",
-      "name": "豆丁",
-      "type": 3,
-      "api": "https://gitee.com/abac1984/another-d/raw/master/js/drpy2.min.js",
-      "ext": "https://gitee.com/abac1984/another-d/raw/master/js/AppGet.js?type=url&params=http://110.42.7.59:9066$xasdasdqwertyuio$xasdasdqwertyuio"
-    },
-    {
       "key": "热播影视",
       "name": "热播",
       "type": 3,
@@ -74,39 +60,50 @@
       }
     },
     {
-      "key": "闪影",
-      "name": "闪影",
+      "key": "魔方",
+      "name": "魔方",
       "type": 3,
-      "api": "csp_AppYs",
-      "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod"
-    },
-    {
-      "key": "追忆",
-      "name": "追忆",
-      "type": 3,
-      "api": "csp_AppSy",
+      "api": "csp_AppGet",
       "ext": {
-        "url": "http://110.42.7.130:1866",
-        "key1": "aassddwwxxllsx1x",
-        "key2": "2083c87e98b6ce08",
-        "key3": "2083c87e98b6ce08"
+        "url": "",
+        "site": "https://www.snysw.xyz/mfys.txt",
+        "dataKey": "1234567887654321",
+        "dataIv": "1234567887654321",
+        "deviceId": "",
+        "version": ""
       }
     },
     {
-      "key": "行动",
-      "name": "行动",
+      "key": "火猫",
+      "name": "火猫",
       "type": 3,
-      "api": "csp_AppSy",
+      "quickSearch": 1,
+      "api": "csp_AppGet",
       "ext": {
-        "url": "http://160.202.246.9:2356",
-        "key1": "aassddwwxxllsx1x",
-        "key2": "aassddwwxxllsx1x",
-        "key3": "aassddwwxxllsx1x"
+        "url": "",
+        "site": "https://cunchu8.obs.cn-north-4.myhuaweicloud.com/03.txt",
+        "dataKey": "J6AIORKJ3PQOJKM9",
+        "dataIv": "J6AIORKJ3PQOJKM9",
+        "deviceId": "",
+        "version": ""
       }
     },
+    {
+      "key": "若雪",
+      "name": "若雪",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet2",
+      "ext": {
+        "url": "https://appcms.rx4k.top",
+        "site": "",
+        "dataKey": "ZX10ysTYZWtIJCTU",
+        "dataIv": "ZX10ysTYZWtIJCTU",
+        "deviceId": "",
+        "version": "120"
+      }
+    },    
     {
       "key": "咖啡",
       "name": "咖啡",
@@ -573,19 +570,6 @@
         "dataKey": "6a482a70b80eefc9",
         "dataIv": "c995826a3e86fedd",
         "jxurl": "https://www.ququkan.cc"
-      }
-    },
-    {
-      "key": "火猫",
-      "name": "火猫",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppMuou",
-      "ext": {
-        "url": "http://154.12.22.168:14988",
-        "dataKey": "531f6082a43ac5d7",
-        "dataIv": "531f6082a43ac5d7",
-        "jxurl": "http://app.789dd.cn"
       }
     },
     {
