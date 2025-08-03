@@ -60,6 +60,15 @@
       }
     },
     {
+      "key":"星河",
+      "name":"星河",
+      "type":3,
+      "api":"csp_Xdai",
+      "jar":"./qj.jar",
+      "playerType":2,
+      "ext":"7lj763gg402i794247239g9jk10kjl82l3g6845ki2i66j7906194lg6g8460h5k548i51l8805497807509g597kgk419l4l461675gl5g5ikkk329i28lg60h15541k9l3i3h1l266357j8j5625409hl8543522k5"
+    },
+    {
       "key": "魔方",
       "name": "魔方",
       "type": 3,
@@ -2024,3 +2033,4 @@
     "static-mozai.4gtv.tv"
   ]
 }
+
